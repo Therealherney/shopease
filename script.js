@@ -6,8 +6,7 @@ const products = [
         category: "electronics",
         price: 99.99,
         description: "High-quality wireless headphones with noise cancellation.",
-        image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-    },
+        image: "https://images.unsplash.com/photo-1601944179066-29786cb9d32a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     {
         id: 2,
         name: "Smart Watch",
